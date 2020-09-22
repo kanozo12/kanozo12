@@ -20,7 +20,7 @@
 
   <div align=center>
   
-  [![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://kanozo12.github.io/)](https://kanozo12.github.io/) 
+  [![My Tech Blog Badge](https://img.shields.io/github/followers/kanozo12?style=for-the-badge)](https://kanozo12.github.io/) 
   [![Twitter Follow](https://img.shields.io/twitter/follow/KineticDev27?label=Follow%20me&style=social)](https://twitter.com/KineticDev27)
   </div>
   
