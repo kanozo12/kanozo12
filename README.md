@@ -21,7 +21,7 @@
   <div align=center>
   
   [![My Tech Blog Badge](https://img.shields.io/github/followers/kanozo12?style=for-the-badge)](https://kanozo12.github.io/) 
-  [![Twitter Follow](https://img.shields.io/twitter/follow/KineticDev27?label=Follow%20me&style=social)](https://twitter.com/KineticDev27)
+  [![Twitter Follow](https://img.shields.io/github/stars/kanozo12/CodeBook?style=for-the-badge)](https://twitter.com/KineticDev27)
   </div>
   
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
