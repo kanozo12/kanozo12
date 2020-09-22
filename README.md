@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=kanozo12's%20Github&fontSize=40)
 
-### Hello world!&nbsp;<img src="https://github.com/kanozo12/kanozo12/blob/master/earth.gif" width="24px">
+### Hello world!&nbsp;
 
 <p>
   <em>
