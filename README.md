@@ -12,26 +12,11 @@
 
 ![kanozo12's github stats](https://github-readme-stats.vercel.app/api?username=kanozo12&show_icons=true)
 
-### Online Judge 💻
-
-* BOJ: [kanozo12](http://icpc.me/kanozo12)
-  * solvedac: [kanozo12](https://solved.ac/profile/kanozo12)
-  
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kanozo12)](https://solved.ac/kanozo12)
-
-<!--
-### Project ⚡
-
-* Development Diary Blog([blog](https://kanozo12.github.io))
-* [Unknown to Wellknown](https://github.com/justiceHui/Unknown-To-Wellknown): Advanced Algorithm Introduction
-* [814Solver](https://github.com/kimjg1119/814Solver): [BOJ 18789 814-2](https://www.acmicpc.net/problem/18789) solver using Genetic Algorithm
--->
 
 ### Contacts 📫
 
 * Github Repo Issue
-* Twitter DM
-* Email: aheui@kakao.com
+* Email: kanozo12@naver.com
 
   <div align=center>
   
