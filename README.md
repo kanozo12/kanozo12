@@ -1,6 +1,4 @@
-# kanozo12&nbsp;<img src="https://github.com/kanozo12/kanozo12/blob/master/sans.gif" width="30px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%kanozo12%kanozo12)](https://hits.seeyoufarm.com) 
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Kinetic's%20Github&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=kanozo12's%20Github&fontSize=40)
 
 ### Hello world!&nbsp;<img src="https://github.com/kanozo12/kanozo12/blob/master/earth.gif" width="24px">
 
