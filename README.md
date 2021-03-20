@@ -1,4 +1,4 @@
-![header](https://mblogthumb-phinf.pstatic.net/MjAyMDAzMTZfMjgx/MDAxNTg0MzU0ODI1OTY1.z2idQe7O5g-hoTWQDUXQQPKgT62ONniqcax2g12CaRAg.fD3WCtBr3LNXxHXSBfBobrkOcJQxpdtKhHgaa3EJm50g.JPEG.dbsgns2011/귀멸의_칼날.jpg?type=w800)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=kanozo12's%20Github&fontSize=40)
 
 ### Hello world!&nbsp;
 
