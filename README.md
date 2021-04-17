@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    My name is Junwoo
+    My name is Junwoo<br>
     I am <b>noob</b> student developer. 👨‍💻 <br>
     I like to <b>develop</b> many interesting things. 🎁 <br>
     Seeking <b>software</b> that can be <b>useful</b>✨ and <b>convenient</b>🎉  for someone to use, and many things to develop in a fun way. 
